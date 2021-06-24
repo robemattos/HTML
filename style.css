@@ -1,0 +1,42 @@
+#Titulo1{
+    color: #80001c;
+    font-size: 40px;
+    text-align: center;
+}
+
+#Titulo2{
+    color:#80001c;
+    font-size: 30px;
+    text-align: center;
+}
+
+.borda-img{
+    border: 3px solid #f8f8f8;
+    padding: 1px;
+    margin-left: 10px;
+}
+
+#Sobre{
+    color:#80001c;
+    font-size: 30px;
+    margin-bottom: 0;
+}
+
+#margem_sobre{
+    margin-top: 0px;
+}
+
+body{
+    background-color: #e1bee4;
+}
+
+footer{
+    border-top: 2px solid #80001c;
+    color: #80001c;
+    background-color: #e1bee4;
+}
+
+.links{
+    color: #80001c;
+    text-decoration: none;
+}
